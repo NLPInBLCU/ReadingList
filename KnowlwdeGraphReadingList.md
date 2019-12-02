@@ -16,7 +16,7 @@ A collection of knowledge graph papers, codes, and reading notes.
   - [Knowledge Graph Reasoning](#knowledge-graph-reasoning)
 - [One/few-Shot and Zero-Shot](#onefew-shot-and-zero-shot)
 - [GCN with Knowledge Graph](#gcn-with-knowledge-graph)
-- [About Books](about-books)
+- [About Books](#about-books)
 
 ### The Introduction
 __Introducing the knowledge Graph: Things, Not Strings__. Offical Blog of Google. _Singhal, Amit_. [[blog](https://www.blog.google/products/search/introducing-knowledge-graph-things-not/)]
@@ -134,8 +134,6 @@ __Unifying Knowledge Graph Learning and Recommendation: Towards a Better Underst
 __Explianable Reasoning over Knowledge Graphs for Recommendation__. AAAI 2019. _Wang, Xiang and Wang, Dingxian and Xu, Canran and He, Xiangnan and Cao, Yixin and Chua, Tat-Seng_. [[Paper](https://arxiv.org/abs/1811.04540)] [[Code](https://github.com/eBay/KPRN)]  
 
 
-
-
 ### Question Answering
 
 __Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base__. NIPS 2018. _Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin_. [[Paper](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base)]
@@ -209,6 +207,15 @@ __Rethinking Knowledge Graph Propagation for Zero-Shot Learning__. 2018. _Kampff
 __Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs__. CVPR 2018. _Xiaolong Wang, Yufei Ye, Abhinav Gupta_. [[Paper](https://arxiv.org/pdf/1803.08035.pdf)] [[Code](https://github.com/JudyYe/zero-shot-gcn)]
 
 ### GCN with Knowledge Graph
+__Semi-Supervised Classification with Graph Convolutional Networks__. ICLR2017. _Thomas N. Kipf, Max Welling_. [[paper](https://arxiv.org/abs/1609.02907)].
+
+__Graph Attention Networks__. ICLR2018. _Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio_. [[paper](https://arxiv.org/abs/1710.10903)].
+
+__ Modeling Relational Data with Graph Convolutional Networks__. _M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, M. Welling_. [[paper](https://arxiv.org/abs/1703.06103)].
+
+__Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks__. EMNLP2018. _Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang_. [[paper](https://www.aclweb.org/anthology/D18-1032/)].
+
+__Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs__. ACL2019. _Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul_.  [[paper](https://www.aclweb.org/anthology/P19-1466/)].
 
 ### About Books
 __本体与词汇库—自然语言处理角度的解析__. 北京大学出版社. _黄居仁 / Nicoletta Calzolari / Aldo Gangemi / Alessandro Lenci_.
