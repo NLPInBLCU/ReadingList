@@ -2,8 +2,6 @@
 
 A collection of knowledge graph papers, codes, and reading notes.
 
-![How to build a Knowledge Graph](/Volumes/Samsung USB/Coursera_resource/知识图谱构建图.png)
-
 - [The Introduction](#the-introduction)
 - [Knowledge Graph Embedding](#knowledge-graph-embedding)
 - [Knowledge Graph Completion](#knowledge-graph-completion)
