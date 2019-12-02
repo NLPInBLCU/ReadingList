@@ -19,4 +19,4 @@
 - [依存分析等任务的领域适应](domain_adaptation_parsing.md)
 - [字符级别依存分析](character_dependency.md)
 - [依存分析任务论文](dependency_parsing.md)
-- [知识图谱论文])(#KnowledgeGraphReadingList.md)
+- [知识图谱论文](#KnowledgeGraphReadingList.md)
